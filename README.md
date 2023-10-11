@@ -1,4 +1,4 @@
-# Source code for the paper: ["HINT: Healthy Influential Noise-based Training to Defend against Data Poisoning Attacks"](https://arxiv.org/abs/2309.08549)
+# Source code for the paper: [HINT: Healthy Influential Noise-based Training to Defend against Data Poisoning Attacks](https://arxiv.org/abs/2309.08549)
 
 ## Code base
 Implementation uses Python 3.9 version with Pytorch. To install dependencies for this source code:
