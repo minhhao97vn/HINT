@@ -1,5 +1,4 @@
-# Code submission to ICDM 2023
-# Paper title: "HINT: Healthy Influential Noise-based Training to Defend against Data Poisoning Attacks"
+# Source code for the paper: ``HINT: Healthy Influential Noise-based Training to Defend against Data Poisoning Attacks"
 
 ## Code base
 Implementation uses Python 3.9 version with Pytorch. To install dependencies for this source code:
