@@ -2,6 +2,8 @@
 Accepted as regular paper at IEEE ICDM 2023, Shanghai, China.
 
 ## Code base
+Part of our code is inspired from [Nimarb's Implementation](https://github.com/nimarb/pytorch_influence_functions)
+
 Implementation uses Python 3.9 version with Pytorch. To install dependencies for this source code:
 ```
 pip install -r requirements.txt
